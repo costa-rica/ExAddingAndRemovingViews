@@ -2,6 +2,8 @@
 ![apple and dd Logo](https://nick-rodriguez.info/media/appleAndDD.png)
 This is a simple Swift application that demonstrates how to programmatically add and remove views in a UIViewController using NSLayoutConstraint and view.removeFromSuperview().
 
+- for a more practical approach with many UIViews and UIScrollView see: [https://github.com/costa-rica/ExAddingAndRemovingViews02](https://github.com/costa-rica/ExAddingAndRemovingViews02)
+
 ## Features
 
 - Programmatically adds and removes views from a UIViewController using NSLayoutConstraint and view.removeFromSuperview()
